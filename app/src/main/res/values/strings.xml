@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TaskList_v2</string>
+    <string name="task_entity">task entity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="task_item_edit_hint">Write your task</string>
+    <string name="type_date">Type date</string>
+    <string name="save">save</string>
+    <string name="curentdate">CurentDate</string>
+    <string name="delete">Delete</string>
+</resources>
